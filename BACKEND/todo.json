@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "task": "hello ",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "komal please study python ",
+    "completed": false
+  }
+]
